@@ -1,0 +1,29 @@
+﻿  game.c
+  ghost.c
+  ghost_move_script.c
+  main.c
+  map.c
+  pacman_obj.c
+C:\Users\yoyus\OneDrive\桌面\NTHU\大一上\程設一\程設一\Final Project\Allegro_pacman_VS2022\Allegro_pacman\Allegro_pacman\Src\map.c(141,17): warning C4022: 'free': 指標與實質參數 1 不相符
+  scene_game.c
+C:\Users\yoyus\OneDrive\桌面\NTHU\大一上\程設一\程設一\Final Project\Allegro_pacman_VS2022\Allegro_pacman\Allegro_pacman\Src\scene_game.c(78,9): warning C4047: '=': 'Ghost **' 與 'Ghost *' 間接取值的層級不同
+C:\Users\yoyus\OneDrive\桌面\NTHU\大一上\程設一\程設一\Final Project\Allegro_pacman_VS2022\Allegro_pacman\Allegro_pacman\Src\scene_game.c(179,34): warning C4133: '函式': 不相容的類型 - 從 'Ghost *' 至 'object *'
+C:\Users\yoyus\OneDrive\桌面\NTHU\大一上\程設一\程設一\Final Project\Allegro_pacman_VS2022\Allegro_pacman\Allegro_pacman\Src\scene_game.c(180,28): warning C4133: '函式': 不相容的類型 - 從 'Pacman *' 至 'object *'
+C:\Users\yoyus\OneDrive\桌面\NTHU\大一上\程設一\程設一\Final Project\Allegro_pacman_VS2022\Allegro_pacman\Allegro_pacman\Src\scene_game.c(194,34): warning C4133: '函式': 不相容的類型 - 從 'Ghost *' 至 'object *'
+C:\Users\yoyus\OneDrive\桌面\NTHU\大一上\程設一\程設一\Final Project\Allegro_pacman_VS2022\Allegro_pacman\Allegro_pacman\Src\scene_game.c(195,28): warning C4133: '函式': 不相容的類型 - 從 'Pacman *' 至 'object *'
+  scene_menu.c
+C:\Users\yoyus\OneDrive\桌面\NTHU\大一上\程設一\程設一\Final Project\Allegro_pacman_VS2022\Allegro_pacman\Allegro_pacman\Src\scene_menu.c(135,19): warning C4113: 'void (__cdecl *)()' 與來自 'func_ptr' 的參數清單不同
+C:\Users\yoyus\OneDrive\桌面\NTHU\大一上\程設一\程設一\Final Project\Allegro_pacman_VS2022\Allegro_pacman\Allegro_pacman\Src\scene_menu.c(136,13): warning C4113: 'void (__cdecl *)()' 與來自 'func_ptr' 的參數清單不同
+C:\Users\yoyus\OneDrive\桌面\NTHU\大一上\程設一\程設一\Final Project\Allegro_pacman_VS2022\Allegro_pacman\Allegro_pacman\Src\scene_menu.c(137,16): warning C4113: 'void (__cdecl *)()' 與來自 'func_ptr' 的參數清單不同
+C:\Users\yoyus\OneDrive\桌面\NTHU\大一上\程設一\程設一\Final Project\Allegro_pacman_VS2022\Allegro_pacman\Allegro_pacman\Src\scene_menu.c(143,22): warning C4113: 'void (__cdecl *)()' 與來自 'func_ptr_mouse' 的參數清單不同
+  scene_menu_object.c
+  scene_settings.c
+C:\Users\yoyus\OneDrive\桌面\NTHU\大一上\程設一\程設一\Final Project\Allegro_pacman_VS2022\Allegro_pacman\Allegro_pacman\Src\scene_settings.c(56,2): warning C4013: 'drawButton1' 未定義; 假設 extern 傳回整數
+C:\Users\yoyus\OneDrive\桌面\NTHU\大一上\程設一\程設一\Final Project\Allegro_pacman_VS2022\Allegro_pacman\Allegro_pacman\Src\scene_settings.c(79,6): warning C4101: 'ch': 未參考的區域變數
+C:\Users\yoyus\OneDrive\桌面\NTHU\大一上\程設一\程設一\Final Project\Allegro_pacman_VS2022\Allegro_pacman\Allegro_pacman\Src\scene_settings.c(152,19): warning C4113: 'void (__cdecl *)()' 與來自 'func_ptr' 的參數清單不同
+C:\Users\yoyus\OneDrive\桌面\NTHU\大一上\程設一\程設一\Final Project\Allegro_pacman_VS2022\Allegro_pacman\Allegro_pacman\Src\scene_settings.c(153,16): warning C4113: 'void (__cdecl *)()' 與來自 'func_ptr' 的參數清單不同
+C:\Users\yoyus\OneDrive\桌面\NTHU\大一上\程設一\程設一\Final Project\Allegro_pacman_VS2022\Allegro_pacman\Allegro_pacman\Src\scene_settings.c(154,22): warning C4113: 'void (__cdecl *)()' 與來自 'func_ptr_mouse' 的參數清單不同
+  shared.c
+  utility.c
+  正在產生程式碼...
+  Allegro_pacman.vcxproj -> C:\Users\yoyus\OneDrive\桌面\NTHU\大一上\程設一\程設一\Final Project\Allegro_pacman_VS2022\Allegro_pacman\x64\Debug\Allegro_pacman.exe
